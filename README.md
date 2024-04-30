@@ -1,4 +1,4 @@
-# **Convertidor de Monedas con Java**
+<h1 align="center"> Convertidor de Monedas con Java </h1>
 
 <a href='https://postimg.cc/68JQ8KSX' target='_blank'><img src='https://i.postimg.cc/68JQ8KSX/java.png' border='0' alt='java'/></a>
 
