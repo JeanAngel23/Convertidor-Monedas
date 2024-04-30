@@ -11,11 +11,7 @@
 
 
 
-**Table of Contents**
 
-[TOCM]
-
-[TOC]
 
 # Descripción
 Este proyecto es un convertidor de monedas desarrollado en Java que permite a los usuarios convertir diferentes monedas utilizando la API de ExchangeRate.
