@@ -20,7 +20,7 @@ Características
 - Conexión a la API: El convertidor se conecta a la API de ExchangeRate para obtener los tipos de cambio en tiempo real.
 - Conversión de Monedas: Permite a los usuarios ingresar el código de la moneda de origen y destino, así como el monto a convertir, y devuelve el monto convertido.
 
-#Instalación
+# Instalación
 ------------
 - Descarga la ultima version de Java
 - Clona este repositorio en tu máquina local.
@@ -28,7 +28,7 @@ Características
 - Configura la API key de ExchangeRate en el archivo correspondiente.
 - Ejecuta la aplicación y comienza a convertir monedas.
 
-#Uso:
+# Uso:
 ------------
 - Abre la aplicación y selecciona la opción de conversión de monedas.
 - Ingresa el código de la moneda de origen y destino, así como el monto a convertir.
